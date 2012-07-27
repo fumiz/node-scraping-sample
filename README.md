@@ -8,7 +8,7 @@ A node.js scraping sample for web pages with multibyte characters
 * Node.js
 * [International Components for Unicode](http://site.icu-project.org/)
  * [node-icu-charset-detector](https://github.com/mooz/node-icu-charset-detector) use it
- * Maybe you can install that `sudo apt-get install libicu-dev` or `sudo yum install libicu-deveh`
+ * Maybe you can install that `sudo apt-get install libicu-dev` or `sudo yum install libicu-devel`
 * iconv
 
 # Setup
